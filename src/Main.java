@@ -12,6 +12,7 @@ public class Main {
         number += num;
 
         System.out.println(number);
+        System.out.println(27);
 
     }
 }
